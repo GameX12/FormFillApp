@@ -20,7 +20,7 @@
     <hr>
     <br>
 
-    
+    <h1> I am Nitin Rajput. I am looking for job in DEVOPS</h1> 
     <button type="submit" class="registerbtn">Register</butto	n>
   </div>
 
