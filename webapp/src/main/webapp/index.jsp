@@ -20,7 +20,7 @@
     <hr>
     <br>
 
-    <h1> I am Nitin Rajput.***** I am looking for job in DEVOPS. Please send my CV to your company. I Need badly project. Hello Guys DevOps my forte.</h1> 
+    <h1> I am Nitin Rajput.***%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@** I am looking for job in DEVOPS. Please send my CV to your company. I Need badly project. Hello Guys DevOps my forte.</h1> 
     <button type="submit" class="registerbtn">Register</butto	n>
   </div>
 
